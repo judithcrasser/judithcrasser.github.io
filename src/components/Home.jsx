@@ -4,8 +4,8 @@ function Home() {
   return (
     <div className="home">
       <h1>
-        Hey, my name is Judith. I am a Frontend Web Developer and Graphic
-        Designer based in Leipzig.
+        Hey, my name is Judith Crasser. <br /> I am a Fullstack Web Developer and Graphic
+        Designer based in Leipzig, Germany.
       </h1>
     </div>
   );

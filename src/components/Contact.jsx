@@ -1,33 +1,41 @@
 import React from "react";
 
 function Contact() {
+
+  const today = new Date();
+  const year = today.getFullYear();
+
   return (
     <div className="contact">
+
       <button
         className="mail-btn"
-        onClick={() => (window.location = "mailto:judith.crasser@web.de")}
-      >
+        onClick={() => (window.location = "mailto:judith.crasser@web.de")}>
         Contact Me
       </button>
+      
+      <p className="underline">
+        Imprint
+      </p>
       <p>
-        <u>Imprint</u>
-        <br />
-        <br />
         Copyright:
-        <br />
+      </p>
+      <p>
         The contents and works on these pages are subject to German copyright
         law. The reproduction, editing, distribution and any kind of
         exploitation outside the limits of copyright require the written consent
         of the author.
-        <br />
-        <br />
+      </p>
+      <p>
         Liability notice:
-        <br />
+      </p>
+      <p>
         Despite careful control of the content, no liability is assumed for the
         content of external links. The operators of the linked pages are solely
         responsible for their content.
-        <br />
-        <br />© 2022 Judith Crasser
+      </p>
+      <p>
+        © {year} Judith Crasser
       </p>
     </div>
   );
