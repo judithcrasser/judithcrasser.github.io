@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800;1,900&family=Syne:wght@400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
 
 *,
 *::before,
@@ -295,6 +296,29 @@ p {
   font-weight: bold;
 }
 
+/* NOT FOUND */
+.not-found {
+  padding: 2rem 2rem 2rem 8.8rem;
+}
+
+.not-found p {
+  display: flex;
+  align-items: center;
+  font-family: 'Delicious Handrawn', cursive;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  letter-spacing: 3px;
+}
+
+.not-found svg {
+  font-size: 5rem;
+  margin-right: 2rem;
+}
+
+.work-not-found {
+  padding: 2rem;
+}
+
 
 /* MEDIA QUERIES */
 @media screen and (max-width: 1345px) {
@@ -386,6 +410,23 @@ p {
     z-index: 1;
     cursor: e-resize;
   }
+
+  .not-found {
+    padding: 2rem;
+  }
+  
+  .not-found p {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 2.5rem;
+
+  }
+  
+  .not-found svg {
+    margin-bottom: 1.3rem;
+    font-size: 4.5rem;
+  }
 }
 
 @media screen and (max-width: 425px) {
@@ -452,5 +493,22 @@ p {
 
   .work-text {
     padding-top: 2.5rem;
+  }
+
+  .not-found {
+    padding: 1rem;
+  }
+
+  .not-found p {
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+  }
+  
+  .not-found svg {
+    font-size: 3.2rem;
+  }
+
+  .work-not-found {
+    padding: 1rem;
   }
 }

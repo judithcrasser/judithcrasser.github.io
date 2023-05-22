@@ -11,8 +11,9 @@ function WorkDetails({works}) {
 
   return (
 
-    <div className="work-details">
-      
+   work ? (
+   <div className="work-details">
+     
       <div className="work-text-container">
         <Link to={'/work'}>
           <div className="back-btn"><MdArrowBackIos style = {{transform: 'rotate(90deg)' }} /></div>
@@ -48,7 +49,8 @@ function WorkDetails({works}) {
           <ImageSlider works={works} />
         </div>
       </div>
-    </div>
+    </div>) : (<p className="work-not-found">work does not exist</p>)
+  
   );
 }
 

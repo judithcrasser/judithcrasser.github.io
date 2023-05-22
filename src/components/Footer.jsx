@@ -4,10 +4,10 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 function Footer() {
   return (
     <div className="footer">
-      <Link 
+      <Link
         to="https://github.com/judithcrasser"
         target="_blank"
-        className="footer-link" 
+        className="footer-link"
       >
         <FaGithub icon="fa-brands fa-github" />
       </Link>

@@ -5,8 +5,8 @@ import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import WorkList from "./components/WorkList";
 import WorkDetails from "./components/WorkDetails";
+import NotFound from './components/NotFound';
 import { Route, Routes } from 'react-router-dom';
-// import WorkDetails from './components/WorkDetails';
 
 function App() {
 
@@ -108,11 +108,17 @@ function App() {
       text: "Video/sound work on the topic 'Excavation of archaeoacoustic objects' / scholarship project supported by Musikfonds e.V.",
       linkTitle: "video",
       link: 'https://suspicious-swanson-af0b11.netlify.app/',
-      image: require("../src/images/work-5.jpg"),
+      image: require("../src/images/work-5-cover.jpg"),
       slides: [
-        { url: require("../src/images/work-5.jpg") },
+        { url: require("../src/images/work-5a.png") },
         { url: require("../src/images/work-5b.jpg") },
-        { url: require("../src/images/work-5c.jpg") }
+        { url: require("../src/images/work-5c.jpg") },
+        { url: require("../src/images/work-5d.jpg") },
+        { url: require("../src/images/work-5e.png") },
+        { url: require("../src/images/work-5f.jpg") },
+        { url: require("../src/images/work-5g.jpg") },
+        { url: require("../src/images/work-5h.jpg") },
+        { url: require("../src/images/work-5i.jpg") }
       ]
     },
     {
@@ -139,9 +145,9 @@ function App() {
           <Route path='/work' element={<WorkList works={works} />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='/work/:id' element={<WorkDetails works={works} />} />
-          {/* <Route path='*' element={<NotFound />} /> */}
+          <Route path='/work/*' element={<NotFound />} />
+          <Route path='*' element={<NotFound />} />
         </Routes>
-        {/* <WorkDetails /> */}
       </div>
       <Footer />
     </div>

@@ -1,18 +1,12 @@
 import React from 'react'
 import { useState } from "react";
-import {useParams} from 'react-router-dom'
-
-// import { IoIosArrowForward, IoIosArrowBack } from 'react-icons/io';
-// import { MdArrowBackIos, MdArrowForwardIos } from 'react-icons/md';
+import { useParams } from 'react-router-dom'
 import { IoMdArrowDropleft, IoMdArrowDropright } from 'react-icons/io'
 
 function ImageSlider({works}) {
 
     const { id } = useParams()
     const slides = works[id].slides;
-
-    
-
     const slideStyles = {
         width: "100%",
         height: "100%",
