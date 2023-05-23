@@ -97,7 +97,7 @@ function App() {
       text: "Website for cultural association 'Pracht e.V.' based in Leipzig East / team work",
       linkTitle: "Pracht Website",
       link: 'https://pracht-ev.net/en',
-      image: require("../src/images/work-w4-cover.png"),
+      image: require("../src/images/work-w4-cover.jpg"),
       slides: [
         { url: require("../src/images/work-w4-L.png") }
       ]
@@ -114,7 +114,7 @@ function App() {
         { url: require("../src/images/work-5b-L.jpg") },
         { url: require("../src/images/work-5c-L.jpg") },
         { url: require("../src/images/work-5d-L.jpg") },
-        { url: require("../src/images/work-5e-L.jpg") },
+        { url: require("../src/images/work-5e-L.png") },
         { url: require("../src/images/work-5f-L.jpg") },
         { url: require("../src/images/work-5g-L.jpg") },
         { url: require("../src/images/work-5h-L.jpg") },
