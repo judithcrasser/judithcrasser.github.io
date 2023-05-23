@@ -17,7 +17,7 @@ function App() {
       text: "Cover design for 'Emergency Loops' Sampler curated by Pracht e.V., 2020/2021",
       linkTitle: "Pracht Bandcamp",
       link: 'https://prachtleipzig.bandcamp.com/',
-      image: require("../src/images/work-1a-cover.jpg"),
+      image: require("../src/images/work-1a-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-1a-L.jpg") },
         { url: require("../src/images/work-1b-L.jpg") }
@@ -29,7 +29,7 @@ function App() {
       text: "React App for listing your To Do's",
       linkTitle: "live version",
       link: 'https://judithcrasser.github.io/to-do-app/',
-      image: require("../src/images/work-w1b-cover.png"),
+      image: require("../src/images/work-w1b-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-w1-L.png") },
       ]
@@ -38,7 +38,7 @@ function App() {
       id: 2,
       title: "POSTER SERIES FM ADHOC",
       text: "Posters for event series FM ADhoc at Pracht e.V., 2019/2020",
-      image: require("../src/images/work-2a-cover.jpg"),
+      image: require("../src/images/work-2a-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-2a-L.jpg") },
         { url: require("../src/images/work-2b-L.jpg") },
@@ -51,7 +51,7 @@ function App() {
       text: "A simple React App for listing your tomato seed collection",
       linkTitle: "github repo",
       link: 'https://judithcrasser.github.io/to-do-app/',
-      image: require("../src/images/work-w2a-cover.jpg"),
+      image: require("../src/images/work-w2a-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-w2a-L.jpg") },
         { url: require("../src/images/work-w2b-L.jpg") },
@@ -62,7 +62,7 @@ function App() {
       id: 4,
       title: "POSTER CLUB NIGHT",
       text: "Poster for a club night at Pracht e.V. 2019",
-      image: require("../src/images/work-3-cover.jpg"), 
+      image: require("../src/images/work-3-Cover.jpg"), 
       slides: [
         { url: require("../src/images/work-3-L.jpg") }
       ]
@@ -75,7 +75,7 @@ function App() {
       link: 'https://github.com/noiix',
       linkTitle2: "live version",
       link2: 'https://make.noix.space/',
-      image: require("../src/images/work-w3-cover.png"),
+      image: require("../src/images/work-w3-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-w3a-L.png") },
         { url: require("../src/images/work-w3b-L.png") },
@@ -86,7 +86,7 @@ function App() {
       id: 6,
       title: "POSTER REOPENING",
       text: "Poster for the reopening event at Pracht e.V. 2022",
-      image: require("../src/images/work-4-cover.jpg"),
+      image: require("../src/images/work-4-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-4-L.jpg") }
       ]
@@ -97,7 +97,7 @@ function App() {
       text: "Website for cultural association 'Pracht e.V.' based in Leipzig East / team work",
       linkTitle: "Pracht Website",
       link: 'https://pracht-ev.net/en',
-      image: require("../src/images/work-w4-cover.jpg"),
+      image: require("../src/images/work-w4-Cover.png"),
       slides: [
         { url: require("../src/images/work-w4-L.png") }
       ]
@@ -105,10 +105,10 @@ function App() {
     {
       id: 8,
       title: "EXCAVATION PROJECT",
-      text: "Video/sound work on the topic 'Excavation of archaeoacoustic objects' / scholarship project supported by Musikfonds e.V., Poster text by André Kalnassy",
+      text: "Video/sound work on the topic 'Excavation of archaeoacoustic objects' / scholarship project supported by Musikfonds e.V., poster text by André Kalnassy",
       linkTitle: "video",
       link: 'https://suspicious-swanson-af0b11.netlify.app/',
-      image: require("../src/images/work-5-cover.jpg"),
+      image: require("../src/images/work-5-Cover.jpg"),
       slides: [
         { url: require("../src/images/work-5a-L.png") },
         { url: require("../src/images/work-5b-L.jpg") },
@@ -125,7 +125,7 @@ function App() {
       id: 9,
       title: "ILLUSTRATION / BOOK COVER",
       text: "Vector drawings of lncRNA / design of a book cover for a doctoral thesis",
-      image: require("../src/images/work-6-cover.png"),
+      image: require("../src/images/work-6-Cover.png"),
       slides: [
         { url: require("../src/images/work-6a-L.jpg") },
         { url: require("../src/images/work-6b-L.png") },
