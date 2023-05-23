@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.646a9fa6.css",
-    "main.js": "/static/js/main.381af869.js",
+    "main.js": "/static/js/main.5ac66a28.js",
     "static/media/work-5a-L.png": "/static/media/work-5a-L.a19bdc36b6e2e669e6cb.png",
-    "static/media/work-5i-L.jpg": "/static/media/work-5i-L.310a23520b85b30f9ff3.jpg",
+    "static/media/work-5i-L.jpg": "/static/media/work-5i-L.32992319a1d06733bad1.jpg",
+    "static/media/work-5-Cover.jpg": "/static/media/work-5-Cover.a7e6d2c2a81a66b994ba.jpg",
+    "static/media/work-5h-L.jpg": "/static/media/work-5h-L.5fc695dda29c6dfd853d.jpg",
     "static/media/work-6b-L.png": "/static/media/work-6b-L.d342aa0adcaa81cb845d.png",
-    "static/media/work-5h-L.jpg": "/static/media/work-5h-L.52fa9d51a8f3b1daa6ea.jpg",
-    "static/media/work-5-cover.jpg": "/static/media/work-5-cover.084059bbe444d22435cd.jpg",
     "static/media/work-5e-L.png": "/static/media/work-5e-L.74ac982c6f77cde07e4e.png",
     "static/media/work-w4-L.png": "/static/media/work-w4-L.376fcb65c24277c5a38a.png",
     "static/media/work-5g-L.jpg": "/static/media/work-5g-L.ee57d4ed1317aa885bec.jpg",
@@ -25,26 +25,26 @@
     "static/media/work-1a-L.jpg": "/static/media/work-1a-L.54e1a2c3c05d33eadf67.jpg",
     "static/media/work-w3c-L.png": "/static/media/work-w3c-L.6b52ab201c6fb337d356.png",
     "static/media/work-2b-L.jpg": "/static/media/work-2b-L.f054535703b5a7bec0da.jpg",
+    "static/media/work-1a-Cover.jpg": "/static/media/work-1a-Cover.04877ca3a91f9cdadf41.jpg",
+    "static/media/work-w4-Cover.png": "/static/media/work-w4-Cover.a7a619a14d11cfcea26d.png",
     "static/media/work-1b-L.jpg": "/static/media/work-1b-L.bc01a13b8e3b4f2e9d8f.jpg",
+    "static/media/work-3-Cover.jpg": "/static/media/work-3-Cover.2561dbe3aa65cb180c59.jpg",
+    "static/media/work-4-Cover.jpg": "/static/media/work-4-Cover.eb33802f8a866145edbb.jpg",
     "static/media/work-6a-L.jpg": "/static/media/work-6a-L.17bf4d5b6dfaa03ab1c5.jpg",
     "static/media/work-w2a-L.jpg": "/static/media/work-w2a-L.3f7fa4b28b65c49d495c.jpg",
-    "static/media/work-2a-cover.jpg": "/static/media/work-2a-cover.5c213b5e866adaa6a704.jpg",
+    "static/media/work-2a-Cover.jpg": "/static/media/work-2a-Cover.5ffa10d9ee88dc46602f.jpg",
     "static/media/work-w2b-L.jpg": "/static/media/work-w2b-L.cfaaca26de0678765dbe.jpg",
-    "static/media/work-1a-cover.jpg": "/static/media/work-1a-cover.bd68feb7092c5e005aab.jpg",
-    "static/media/work-w4-cover.jpg": "/static/media/work-w4-cover.4fe46669e834b8c056d5.jpg",
-    "static/media/work-3-cover.jpg": "/static/media/work-3-cover.b384fb336f19469b5c9b.jpg",
-    "static/media/work-4-cover.jpg": "/static/media/work-4-cover.a8a46eef5dd44f5505a6.jpg",
-    "static/media/work-w3-cover.png": "/static/media/work-w3-cover.3ca56c53037ad5d93b68.png",
+    "static/media/work-w3-Cover.jpg": "/static/media/work-w3-Cover.8606769641c71f2fe227.jpg",
+    "static/media/work-w1b-Cover.jpg": "/static/media/work-w1b-Cover.7a599f10ea065af3cf2c.jpg",
+    "static/media/work-w2a-Cover.jpg": "/static/media/work-w2a-Cover.18599c11396792bd0498.jpg",
     "static/media/work-w1-L.png": "/static/media/work-w1-L.65b7f4193c41f7e7b033.png",
-    "static/media/work-w2a-cover.jpg": "/static/media/work-w2a-cover.78abefe9571e1a1986df.jpg",
-    "static/media/work-6-cover.png": "/static/media/work-6-cover.e50f75c8a5bdf1460ca5.png",
-    "static/media/work-w1b-cover.png": "/static/media/work-w1b-cover.730d1f11d16f5bdf81da.png",
+    "static/media/work-6-Cover.png": "/static/media/work-6-Cover.554f8c3a60cf24c369f4.png",
     "index.html": "/index.html",
     "main.646a9fa6.css.map": "/static/css/main.646a9fa6.css.map",
-    "main.381af869.js.map": "/static/js/main.381af869.js.map"
+    "main.5ac66a28.js.map": "/static/js/main.5ac66a28.js.map"
   },
   "entrypoints": [
     "static/css/main.646a9fa6.css",
-    "static/js/main.381af869.js"
+    "static/js/main.5ac66a28.js"
   ]
 }
