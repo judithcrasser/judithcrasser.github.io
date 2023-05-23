@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
   const today = new Date();
-  const year = today.getFullYear() - 2;
+  const year = today.getFullYear();
 
   return (
     <div className="contact">
