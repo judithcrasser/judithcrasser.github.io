@@ -104,8 +104,8 @@ function App() {
     },
     {
       id: 8,
-      title: "POSTER EXCAVATION",
-      text: "Video/sound work on the topic 'Excavation of archaeoacoustic objects' / scholarship project supported by Musikfonds e.V.",
+      title: "EXCAVATION PROJECT",
+      text: "Video/sound work on the topic 'Excavation of archaeoacoustic objects' / scholarship project supported by Musikfonds e.V., Poster text by André Kalnassy",
       linkTitle: "video",
       link: 'https://suspicious-swanson-af0b11.netlify.app/',
       image: require("../src/images/work-5-cover.jpg"),
