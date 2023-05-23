@@ -110,7 +110,7 @@ function App() {
       link: 'https://suspicious-swanson-af0b11.netlify.app/',
       image: require("../src/images/work-5-cover.jpg"),
       slides: [
-        { url: require("../src/images/work-5a-L.jpg") },
+        { url: require("../src/images/work-5a-L.png") },
         { url: require("../src/images/work-5b-L.jpg") },
         { url: require("../src/images/work-5c-L.jpg") },
         { url: require("../src/images/work-5d-L.jpg") },
