@@ -86,7 +86,7 @@ function App() {
       id: 6,
       title: "POSTER REOPENING",
       text: "Poster for the reopening event at Pracht e.V. 2022",
-      image: require("../src/images/work-4-s.jpg"),
+      image: require("../src/images/work-4-m.jpg"),
       slides: [
         { url: require("../src/images/work-4-m.jpg") }
       ]
