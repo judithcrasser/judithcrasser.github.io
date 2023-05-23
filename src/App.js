@@ -17,10 +17,10 @@ function App() {
       text: "Cover design for 'Emergency Loops' Sampler curated by Pracht e.V., 2020/2021",
       linkTitle: "Pracht Bandcamp",
       link: 'https://prachtleipzig.bandcamp.com/',
-      image: require("../src/images/work-1a.jpg"),
+      image: require("../src/images/work-1a-s.jpg"),
       slides: [
-        { url: require("../src/images/work-1a.jpg") },
-        { url: require("../src/images/work-1b.jpg") }
+        { url: require("../src/images/work-1a-m.jpg") },
+        { url: require("../src/images/work-1b-m.jpg") }
       ]
     },
     {
@@ -29,20 +29,20 @@ function App() {
       text: "React App for listing your To Do's",
       linkTitle: "live version",
       link: 'https://judithcrasser.github.io/to-do-app/',
-      image: require("../src/images/work-w1b.png"),
+      image: require("../src/images/work-w1b-s.png"),
       slides: [
-        { url: require("../src/images/work-w1.png") },
+        { url: require("../src/images/work-w1-m.png") },
       ]
     },
     {
       id: 2,
       title: "POSTER SERIES FM ADHOC",
       text: "Posters for event series FM ADhoc at Pracht e.V., 2019/2020",
-      image: require("../src/images/work-2a.jpg"),
+      image: require("../src/images/work-2a-s.jpg"),
       slides: [
-        { url: require("../src/images/work-2a.jpg") },
-        { url: require("../src/images/work-2b.jpg") },
-        { url: require("../src/images/work-2c.jpg") }
+        { url: require("../src/images/work-2a-m.jpg") },
+        { url: require("../src/images/work-2b-m.jpg") },
+        { url: require("../src/images/work-2c-m.jpg") }
       ]
     },
     {
@@ -51,20 +51,20 @@ function App() {
       text: "A simple React App for listing your tomato seed collection",
       linkTitle: "github repo",
       link: 'https://judithcrasser.github.io/to-do-app/',
-      image: require("../src/images/work-w2a.jpeg"),
+      image: require("../src/images/work-w2a-s.jpg"),
       slides: [
-        { url: require("../src/images/work-w2a.jpeg") },
-        { url: require("../src/images/work-w2b.jpeg") },
-        { url: require("../src/images/work-w2c.jpeg") }
+        { url: require("../src/images/work-w2a-m.jpg") },
+        { url: require("../src/images/work-w2b-m.jpg") },
+        { url: require("../src/images/work-w2c-m.jpg") }
       ]
     },
     {
       id: 4,
       title: "POSTER CLUB NIGHT",
       text: "Poster for a club night at Pracht e.V. 2019",
-      image: require("../src/images/work-3.jpg"), 
+      image: require("../src/images/work-3-s.jpg"), 
       slides: [
-        { url: require("../src/images/work-3.jpg") }
+        { url: require("../src/images/work-3-m.jpg") }
       ]
     },
     {
@@ -75,20 +75,20 @@ function App() {
       link: 'https://github.com/noiix',
       linkTitle2: "live version",
       link2: 'https://make.noix.space/',
-      image: require("../src/images/work-w3-cover.png"),
+      image: require("../src/images/work-w3-cover-s.png"),
       slides: [
-        { url: require("../src/images/work-w3a2.png") },
-        { url: require("../src/images/work-w3b2.png") },
-        { url: require("../src/images/work-w3c2.png") },
+        { url: require("../src/images/work-w3a2-m.png") },
+        { url: require("../src/images/work-w3b2-m.png") },
+        { url: require("../src/images/work-w3c2-m.png") },
       ]
     },
     {
       id: 6,
       title: "POSTER REOPENING",
       text: "Poster for the reopening event at Pracht e.V. 2022",
-      image: require("../src/images/work-4.jpg"),
+      image: require("../src/images/work-4-s.jpg"),
       slides: [
-        { url: require("../src/images/work-4.jpg") }
+        { url: require("../src/images/work-4-m.jpg") }
       ]
     },
     {
@@ -97,9 +97,9 @@ function App() {
       text: "Website for cultural association 'Pracht e.V.' based in Leipzig East / team work",
       linkTitle: "Pracht Website",
       link: 'https://pracht-ev.net/en',
-      image: require("../src/images/work-w4.png"),
+      image: require("../src/images/work-w4-s.png"),
       slides: [
-        { url: require("../src/images/work-w4.png") }
+        { url: require("../src/images/work-w4-m.png") }
       ]
     },
     {
@@ -108,28 +108,28 @@ function App() {
       text: "Video/sound work on the topic 'Excavation of archaeoacoustic objects' / scholarship project supported by Musikfonds e.V.",
       linkTitle: "video",
       link: 'https://suspicious-swanson-af0b11.netlify.app/',
-      image: require("../src/images/work-5-cover.jpg"),
+      image: require("../src/images/work-5-cover-s.jpg"),
       slides: [
-        { url: require("../src/images/work-5a.png") },
-        { url: require("../src/images/work-5b.jpg") },
-        { url: require("../src/images/work-5c.jpg") },
-        { url: require("../src/images/work-5d.jpg") },
-        { url: require("../src/images/work-5e.png") },
-        { url: require("../src/images/work-5f.jpg") },
-        { url: require("../src/images/work-5g.jpg") },
-        { url: require("../src/images/work-5h.jpg") },
-        { url: require("../src/images/work-5i.jpg") }
+        { url: require("../src/images/work-5a-m.jpg") },
+        { url: require("../src/images/work-5b-m.jpg") },
+        { url: require("../src/images/work-5c-m.jpg") },
+        { url: require("../src/images/work-5d-m.jpg") },
+        { url: require("../src/images/work-5e-m.jpg") },
+        { url: require("../src/images/work-5f-m.jpg") },
+        { url: require("../src/images/work-5g-m.jpg") },
+        { url: require("../src/images/work-5h-m.jpg") },
+        { url: require("../src/images/work-5i-m.jpg") }
       ]
     },
     {
       id: 9,
       title: "ILLUSTRATION / BOOK COVER",
       text: "Vector drawings of lncRNA / design of a book cover for a doctoral thesis",
-      image: require("../src/images/work-6-cover.png"),
+      image: require("../src/images/work-6-cover-s.png"),
       slides: [
-        { url: require("../src/images/work-6a.jpg") },
-        { url: require("../src/images/work-6b.png") },
-        { url: require("../src/images/work-6c3.jpg") }
+        { url: require("../src/images/work-6a-m.jpg") },
+        { url: require("../src/images/work-6b-m.png") },
+        { url: require("../src/images/work-6c3-m.jpg") }
       ]
     },
   ];
